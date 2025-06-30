@@ -12,12 +12,11 @@ function App() {
        <a href="https://www.instagram.com/chiragtiles?igsh=MXBpb3dtbWRic2Zrbw==" className='insta'>Instagram</a>
        <a href="https://www.facebook.com/share/1EwhCAVK5i/?mibextid=wwXIfr" className='FB'>Facebook</a>
        <a href="https://wa.me/message/63XLCE7BZHDHK1" className='WB'>WhatsApp</a>
-        <a href="https://maps.app.goo.gl/9NgPGESS5nXiZSe79?g_st=ipc" className='Loc'>Location<a>
-    </div>
+        <a href="https://maps.app.goo.gl/9NgPGESS5nXiZSe79?g_st=ipc" className='Loc'>Location</a>
+       </div>
       </header>
     </div>
   );
 }
 
 export default App;
-
